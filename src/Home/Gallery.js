@@ -16,6 +16,7 @@ import { Keyboard, Pagination, Navigation } from 'swiper/modules';
 const Gallery = () => {
   return (
     <div>
+      <p className='uppercase text-5xl text-center mt-20 mb-20 font-medium text-[#FF9933]'>Gallery</p>
       <div>
         <Swiper
           slidesPerView={4}

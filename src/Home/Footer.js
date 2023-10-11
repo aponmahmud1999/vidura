@@ -29,7 +29,7 @@ const Footer = () => {
           <span className="footer-title">Contact Us</span>
            <div className='flex space-x-2'>
            <p className='mt-6 text-base'><BiPhoneCall/></p>
-           <p className='mt-5 hover:border-b pb-2 border-white'>+91-7019561885</p>
+           <p className='mt-5 hover:border-b pb-2 border-white'>+91-545454545</p>
            </div>
           
            

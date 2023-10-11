@@ -53,7 +53,7 @@ Sed a pulvinar sapien</p>
               <p className='text-[45px] mt-3 border-2  rounded-[50%]   text-blue-800 border-[#FF9933] p-[28px] justify-center flex '><BiTask/></p>
               </div>
               <div>
-                <p className='text-xl mt-2'>Election Campaign Management</p>
+                <p className='text-xl mt-2'>Research Ground Level</p>
                 <p className='mt-3 max-w-[250px] text-base'>Sed a pulvinar sapien. Aenean eleifend 
 eget velit quis malesuada.
 Sed a pulvinar sapien</p>
@@ -64,7 +64,7 @@ Sed a pulvinar sapien</p>
 
 
 
-          <div className='grid grid-cols-3 mt-10 space-x-5'>
+          <div className='grid grid-cols-3 mt-10 space-x-5 -ml-5'>
             <div className='flex justify-center space-x-4'>
               <div>
               <p className='text-[45px] mt-3 border-2  rounded-[50%]   text-blue-800 border-[#FF9933] p-[28px] justify-center flex '><BiTask/></p>
@@ -77,7 +77,7 @@ Sed a pulvinar sapien</p>
               </div>
             </div>
 
-            <div className='flex justify-center space-x-4'>
+            <div className='flex justify-center space-x-4 '>
               <div>
               <p className='text-[45px] mt-3 border-2  rounded-[50%]   text-blue-800 border-[#FF9933] p-[28px] justify-center flex '><BiTask/></p>
               </div>
@@ -89,7 +89,7 @@ Sed a pulvinar sapien</p>
               </div>
             </div>
 
-            <div className='flex justify-center space-x-4'>
+            <div className='flex justify-center space-x-4 -ml-5'>
               <div>
               <p className='text-[45px] mt-3 border-2  rounded-[50%]   text-blue-800 border-[#FF9933] p-[28px] justify-center flex '><BiTask/></p>
               </div>
